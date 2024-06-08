@@ -1,0 +1,2 @@
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\cliendsChat.UI\obj\Debug\cliendschat.ui.esproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\cliendsChat.UI\obj\Debug\cliendschat.ui.esproj.CoreCompileInputs.cache

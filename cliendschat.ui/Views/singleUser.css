@@ -1,0 +1,185 @@
+.chat-container {
+    border-radius: 10px;
+    max-width: 95%;
+    margin: 10px auto;
+
+}
+
+.selected-action-users {
+    height: 45px;
+    background-color: rgb(73, 78, 88);
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: 1px -2px 3px rgb(216 223 225);
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: start;
+    gap: 50px;
+    align-items: end;
+    padding-top: 5px;
+    padding-left: 30px;
+    font-size: 0.9rem;
+}
+    .selected-action-users img {
+        width: 35px;
+        height: 35px;
+        border-radius: 50%;
+        border: 2px solid green; 
+        
+    }
+
+h2,p{
+    margin:0;
+}
+
+.place-scrool-mesage {
+    margin: 0 auto;
+    width: 98%;
+    box-shadow: 0px 0px 7px rgb(216 223 225);
+    height: 390px; /* Adjust height as needed */
+    overflow: hidden;
+
+}
+.history-massages-placehold {
+    width: 100%;
+    height: 100%;
+    overflow-y: auto;
+    display: flex;
+    flex-flow: column nowrap;      
+    gap: 10px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 5px 20px;
+    background-color: rgb(34, 34, 48);
+    word-wrap: break-word; /* Ensures long words break to the next line */
+    overflow-wrap: break-word; /*Compatibility with modern browsers */
+    text-align: start;
+    /*border: 2px solid yellow;*/
+}
+.selected-user-messages {
+    width: 98%;
+    display: flex;
+    flex-flow: column nowrap;
+    font-size: 1rem;
+    /*background-color: rgb(59, 61, 66);*/
+    padding: 10px;
+    border-radius: 10px;
+    /*border: 2px solid yellow;*/
+    
+}
+
+button.user-messages {
+    width: 55%;
+    /* border:1px solid blue;*/
+    
+    text-align: left;
+    font-size: 1rem;
+    background-color: rgb(59, 61, 66);
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid rgb(22, 255, 255);
+   
+}
+
+button.admin-massages {
+    width: 55%;   
+    margin-left: 460px;
+    text-align: left;
+    align-self: end;
+    font-size: 1rem;
+    background-color: rgb(59, 61, 66);
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    
+}
+.admin-messages-typing {
+    margin-top:21%;
+    margin-bottom: 40px;
+    /*border: 2px solid red;*/
+    padding-left: 15px;
+    max-width: 70%;
+
+}
+.input-area {
+    width: 80%;
+    word-wrap: break-word; /* Ensures long words break to the next line */
+    overflow-wrap: break-word;
+    margin: 10px;
+}
+input[type="text"] {
+    width: calc(90% - 90px);
+    padding: 10px;
+    
+     /* Compatibility with modern browsers */
+}
+button {
+    padding: 10px 20px;
+    margin-left: 10px;
+}
+.send-dashboard {
+    width: 99%;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    /* gap: 20px;*/
+    align-items: center;
+    
+    margin-bottom: 0px;
+}
+.iamUser-place {
+    min-width:180px;
+    border: 1px solid green;
+    text-align:center;
+}
+
+.log-cont{   
+    
+    display:flex;
+    justify-content:end;
+}
+
+.emoji {
+    color: rgb(22, 255, 255);
+    background-color: rgb(63, 56, 56);
+    border-color: transparent;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 5px;
+    cursor: pointer; /* Add cursor pointer for clickable indication */
+}
+.emoji-cont {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    margin: 7px 0px 30px 10px;
+    gap:3px;
+}
+    .emoji img {
+        width: 20px;
+        height: 20px;
+    }
+
+.emoji.star {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(129, 27, 168);
+    
+    /* border-radius: 50%;*/
+}
+.emoji.smile {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(129, 27, 168);
+    border-radius: 50%;
+}
+.emoji.like {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(129, 27, 168);
+    border-radius: 50%;
+}

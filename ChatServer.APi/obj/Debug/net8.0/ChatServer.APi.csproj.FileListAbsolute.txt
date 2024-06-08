@@ -1,0 +1,88 @@
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\appsettings.json
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\signalRconnections.json
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\VirtualData\dbUsersAcounts.json
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\ChatServer.APi.exe
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\ChatServer.APi.deps.json
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\ChatServer.APi.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\ChatServer.APi.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\ChatServer.APi.pdb
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\ChatServer.APi.csproj.AssemblyReference.cache
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\ChatServer.APi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\ChatServer.APi.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\ChatServer.APi.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\ChatServer.APi.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\ChatServer.APi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\staticwebassets\msbuild.ChatServer.APi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatServer.APi.props
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatServer.APi.props
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatServer.APi.props
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\scopedcss\bundle\ChatServer.APi.styles.css
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\ChatServ.0E517EE1.Up2Date
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\ChatServer.APi.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\refint\ChatServer.APi.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\ChatServer.APi.pdb
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\ChatServer.APi.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API\ChatServer.APi\obj\Debug\net8.0\ref\ChatServer.APi.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\appsettings.json
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\signalRconnections.json
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\VirtualData\dbUsersAcounts.json
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\ChatServer.APi.exe
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\ChatServer.APi.deps.json
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\ChatServer.APi.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\ChatServer.APi.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\ChatServer.APi.pdb
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\ChatServer.APi.csproj.AssemblyReference.cache
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\ChatServer.APi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\ChatServer.APi.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\ChatServer.APi.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\ChatServer.APi.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\ChatServer.APi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\staticwebassets\msbuild.ChatServer.APi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatServer.APi.props
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatServer.APi.props
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatServer.APi.props
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\scopedcss\bundle\ChatServer.APi.styles.css
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\ChatServ.0E517EE1.Up2Date
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\ChatServer.APi.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\refint\ChatServer.APi.dll
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\ChatServer.APi.pdb
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\ChatServer.APi.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\desktop before reinsl\FSProgramer\CSharp\ChatAroundTheWorld.API - Copy\ChatServer.APi\obj\Debug\net8.0\ref\ChatServer.APi.dll

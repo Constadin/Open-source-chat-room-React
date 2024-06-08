@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "Og+606z3LyA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FSdeveloper\\Desktop\\desktop before reinsl\\FSProgramer\\CSharp\\ChatAroundTheWorld.API - Copy\\ChatServer.APi\\ChatServer.APi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\8.0.6\\microsoft.aspnetcore.connections.abstractions.8.0.6.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\8.0.6\\microsoft.aspnetcore.http.connections.client.8.0.6.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\8.0.6\\microsoft.aspnetcore.http.connections.common.8.0.6.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.5\\microsoft.aspnetcore.jsonpatch.8.0.5.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.5\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.5.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\8.0.6\\microsoft.aspnetcore.signalr.client.8.0.6.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\8.0.6\\microsoft.aspnetcore.signalr.client.core.8.0.6.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\8.0.6\\microsoft.aspnetcore.signalr.common.8.0.6.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\8.0.6\\microsoft.aspnetcore.signalr.protocols.json.8.0.6.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\microsoft.extensions.features\\8.0.6\\microsoft.extensions.features.8.0.6.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\FSdeveloper\\.nuget\\packages\\system.threading.channels\\8.0.0\\system.threading.channels.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

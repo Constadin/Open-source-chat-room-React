@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ChatServer.APi.props" />
+</Project>

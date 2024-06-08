@@ -1,0 +1,38 @@
+[
+  {
+    "SignalRId": "lFoyWYMMrwc-QH4XvL559w",
+    "IsActive": true,
+    "GroupNames": [],
+    "Id": 1,
+    "Username": "Angel",
+    "Password": null,
+    "Photo_url": "https://cdn.pixabay.com/photo/2021/06/11/12/26/woman-6328478_1280.jpg"
+  },
+  {
+    "SignalRId": "fkGBhu_bWKe74fWUrAh5JQ",
+    "IsActive": true,
+    "GroupNames": [],
+    "Id": 4,
+    "Username": "John17",
+    "Password": null,
+    "Photo_url": "https://images.pexels.com/photos/2128819/pexels-photo-2128819.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "SignalRId": "LL805SBeNd2DgttizhJYHg",
+    "IsActive": true,
+    "GroupNames": [],
+    "Id": 3,
+    "Username": "Lisa42",
+    "Password": null,
+    "Photo_url": "https://images.pexels.com/photos/2787341/pexels-photo-2787341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "SignalRId": "n-fsvlRYt_6-67KkAs8meA",
+    "IsActive": true,
+    "GroupNames": [],
+    "Id": 5,
+    "Username": "Emily55",
+    "Password": null,
+    "Photo_url": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=600"
+  }
+]

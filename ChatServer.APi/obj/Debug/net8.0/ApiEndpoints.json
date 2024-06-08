@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ChatServer.API.Controllers.UserAuthController",
+    "Method": "GetActiveUsers",
+    "RelativePath": "api/UserAuth/active",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ChatServer.API.Controllers.UserAuthController",
+    "Method": "Login",
+    "RelativePath": "api/UserAuth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userModel",
+        "Type": "ChatServer.APi.Models.UsersAcounts",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
